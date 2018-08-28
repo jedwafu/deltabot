@@ -18,14 +18,17 @@ binance_pump_bot.py
 ```
 
 # Features
+### Fastest bot ever
+* The bot designed to get the best results. 
 ### Cache everything
 * The bot caches everything before pump time to make incredibly fast orders. 
 * Fastest bot ever
 ### Buy orders under 1 second 
 * Even you can get fastest results about 0.2 second on good connections
-### Take profit / stop loss functions
-* Easy configuration 
-  
+### Best functionality
+* Take profit, stop loss any many more. 
+### Easy configuration 
+* You can set up all the settings in a single file. 
   
   
 
