@@ -6,7 +6,7 @@ Fastest binance pump bot ever. Place the buy orders under 1 second even to 0.2 s
 
 # Installation  
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
-* Install the requirements
+* Run the command below to install the requirements
 ```
 pip install pynput requests ccxt==1.16.59 cryptography ws4py
 ```
