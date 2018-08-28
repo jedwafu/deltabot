@@ -24,7 +24,6 @@ binance_pump_bot.py
 So it uses cython, core modules, powerfull caching system and much more optimizations.
 ### Cache everything
 * The bot caches everything before pump time to make incredibly fast orders. 
-* Fastest bot ever
 ### Buy orders under 1 second 
 * Even you can get fastest results about 0.2 second on good connections
 ### Best functionality
