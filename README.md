@@ -20,6 +20,7 @@ binance_pump_bot.py
 # Features
 ### Fastest bot ever
 * The bot designed to get the best results. 
+So it uses cython, core modules, powerfull caching system and much more optimizations.
 ### Cache everything
 * The bot caches everything before pump time to make incredibly fast orders. 
 * Fastest bot ever
