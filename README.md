@@ -2,7 +2,7 @@
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
-Fastest binance pump bot ever.  
+Fastest binance pump bot ever. Place the buy orders under 1 second even to 0.2 second. 
 
 # Installation  
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
@@ -18,12 +18,12 @@ binance_pump_bot.py
 ```
 
 # Features
-* Cache everything
+### Cache everything
   * The bot caches everything before pump time to make incredibly fast orders. 
   * Fastest bot ever
-* Buy orders under 1 second 
+### Buy orders under 1 second 
   * Even you can get fastest results about 0.2 second on good connections
-* Take profit / stop loss functions
+### Take profit / stop loss functions
   * Easy configuration 
   
   
