@@ -4,17 +4,16 @@
 
 Fastest binance pump bot ever.  
 
-# Requirements  
-* [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
-
 # Installation  
+* Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
+
 ```
 pip install pynput requests ccxt==1.16.59 cryptography ws4py
 ```
 
-- Download the bot from [Github](https://github.com/lukacci/binance-pump-bot/archive/master.zip). 
+* Download the bot from [Github](https://github.com/lukacci/binance-pump-bot/archive/master.zip). 
 * Add your apikey and apisecret to config.json file. 
-* Then run the command below to start the program. 
+* Run the command below to start the program. 
 ```
 binance_pump_bot.py 
 ```
