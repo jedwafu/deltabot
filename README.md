@@ -2,7 +2,7 @@
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
-Bu yazılım ile binance üzerinden yapılan pump'larda en hızlı siz olacaksınız. 
+Fastest binance pump bot ever.  
 
 # Requirements  
 * [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
