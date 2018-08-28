@@ -25,7 +25,7 @@ So it uses cython, core modules, powerfull caching system and much more optimiza
 ### Cache everything
 * The bot caches everything before pump time to make incredibly fast orders. 
 ### Buy orders under 1 second 
-* Even you can get fastest results about 0.2 second on good connections
+* Even you can get 0.2 second on good connections
 ### Best functionality
 * Take profit, stop loss any many more. 
 ### Easy configuration 
