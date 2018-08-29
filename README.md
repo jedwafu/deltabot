@@ -28,7 +28,7 @@ So it uses cython, core modules, powerfull caching system and much more optimiza
 ### 🎚️Best functionality
 * Take profit, stop loss any many more. 
 ### ⚙️Easy configuration 
-* You can set up all the settings in a single file. 
+* Set up all the settings with a single file. 
   
   
 
