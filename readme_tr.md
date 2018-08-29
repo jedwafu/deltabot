@@ -13,14 +13,14 @@ pip install pynput requests ccxt==1.16.59 cryptography ws4py
 ```
 * [Github'dan dosyaları indirin](https://github.com/lukacci/binance-pump-bot/archive/master.zip) ve klasörden çıkartın. 
 * Apikey ve apisecret bilgilerinizi config.json dosyasına kaydedin. 
-* Kurulum tamamlandı,artık programı çalıştırmak için aşağıdaki komutu girebilirsiniz. 
+* Kurulum tamamlandı, artık programı çalıştırmak için aşağıdaki komutu girebilirsiniz. 
 ```
 binance_pump_bot.py 
 ```
 
 # Özellikler
 ### 🚀En hızlısı olması için tasarlandı 
-* Bot, Python’un en iyi özelliklerini kullanır. Ek olarak cython, core modüller, full cacheleme, otomatik tamamlama özellikleri ve çok daha fazla optimizasyon içerir.
+* Yazılım, Python’un en iyi özelliklerini kullanır. Ek olarak cython, core modüller, full cacheleme, otomatik tamamlama özellikleri ve çok daha fazla optimizasyon içerir.
 ### 🗄️Herşeyi cacheleyin
 * Pump esnasında saliselerin bile önemi vardır. O yüzden program pump başlamadan önce olası bütün değişken ve verileri cachlemektedir.
 ### 💰Kolayca kâr elde edin
