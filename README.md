@@ -2,7 +2,7 @@
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
-👍 Place the buy orders under 1 second even to 0.2 second. 
+👍 Place the buy orders under 1 second even to 0.2 second (with fast connections). 
 
 # Installation  
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
