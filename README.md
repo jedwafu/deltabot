@@ -2,7 +2,7 @@
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
-👍 Place the buy orders under 1 second even to 0.2 second (with fast connections). 
+Place the buy orders under 1 second even to 0.2 second (with fast connections). 
 
 # Installation  
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
@@ -18,16 +18,16 @@ binance_pump_bot.py
 ```
 
 # Features
-### Optimized for speed 
+### 🚀Optimized for speed 
 * The bot designed to get the fastest results. 
 So it uses cython, core modules, powerfull caching system and much more optimizations.
-### Cache everything
+### 🗄️Cache everything
 * The bot caches everything before pump time to make incredibly fast orders. 
-### Buy orders under 1 second 
-* Even you can get 0.2 second on good connections
-### Best functionality
+### 💰Make money easily
+* Place the buy orders under 1 second even to 0.2 second (with fast connections). 
+### 🎚️Best functionality
 * Take profit, stop loss any many more. 
-### Easy configuration 
+### ⚙️Easy configuration 
 * You can set up all the settings in a single file. 
   
   
