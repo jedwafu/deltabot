@@ -1,4 +1,4 @@
-# Binance-pump-bot
+# Binance Pump and Dump Bot
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
