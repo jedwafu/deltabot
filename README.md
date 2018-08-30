@@ -1,6 +1,6 @@
 # EtnaBot - Binance Pump and Dump Bot
-
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
+[Türkçe için buraya tıklayın](https://github.com/lukacci/cpuhunter/blob/master/README_tr.md)
 
 Place the buy orders under 1 second even to 0.2 second (with fast connections). 
 
