@@ -1,4 +1,4 @@
-# EtnaBot - Binance Pump and Dump Bot
+# DeltaBot - Binance Pump and Dump Bot
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
 Place the buy orders under 1 second even to 0.2 second (with fast connections). 
@@ -9,7 +9,7 @@ Place the buy orders under 1 second even to 0.2 second (with fast connections).
 ```
 pip install pynput requests ccxt==1.16.59 cryptography ws4py
 ```
-* Download the bot from [Github](https://github.com/lukacci/etnabot/archive/master.zip). 
+* Download the bot from [Github](https://github.com/lukacci/deltabot/archive/master.zip). 
 * Add your apikey and apisecret to config.json file. 
 * Run the command below to start the program. 
 ```
