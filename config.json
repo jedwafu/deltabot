@@ -1,0 +1,14 @@
+
+{
+	"binance_pumps": {
+		"key": "api_key",
+		"secret": "api_secret",
+		"target_coin": "BTC",
+		"use_balance": "%5",
+		"take_profit": "%25",
+		"stop_loss": "-%5",
+		"order_type": "market",
+		"limit_order_dont_buy_after_increase": "%20",
+		"trade_with_real_account": "False"
+	}
+}
