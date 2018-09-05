@@ -45,7 +45,7 @@ def fiyatlari_canli_tut(m):
 	veriler = m.data.decode("utf-8")
 	json_tickerlar = json.loads(veriler)
 	for satir in json_tickerlar:
-		pair = satir["secret"]
+		pair = satir["s"]
 		if (pair.endswith(target_coin)):
 			#bazi altcoinlerin id ve code adlari degisIk oluyor
 			#ornegin nano yerine xrb yazilmali burda id'den code'a ceviriyorum

@@ -11,8 +11,8 @@ basligi_degistir()
 #------ config
 config = ayarlari_config_json_dosyasindan_oku()
 #okunan dosyadan configi serpistir
-k_sifreli = config['binance_pumps']['key']
-s_sifreli = config['binance_pumps']['secret']
+k_sifreli = config['binance_pumps']['api_key']
+s_sifreli = config['binance_pumps']['api_secret']
 target_coin = config['binance_pumps']['target_coin']
 trade_with_real_account = str_to_bool(config['binance_pumps']['trade_with_real_account'])
 
@@ -25,7 +25,7 @@ s = sifre_coz(s_sifreli)
 
 exchange = ccxt.binance({
 	'apiKey': k,
-	'secret': s,
+	'api_secret': s,
 	'enableRateLimit': True,
 	'options': { 'adjustForTimeDifference': True }	
 })
