@@ -1,9 +1,15 @@
-# Binance Pump and Dump Botu
+# Binance kullanıcıları için faydalı botlar
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
-1 saniyenin altında alış emirleri ile pump esnasında en hızlı siz olacaksınız. 
+1 saniyenin altında alış emirleri ile en hızlı ve kazançlı siz olacaksınız. 
 (Çok iyi internet bağlantıları ile 0.2 saniyeye kadar hızlandırılabilir.)
+
+# Pakette Neler Var?
+### Binance Pump Botu
+* Bu botu kullanmadan Binance üzerinde yapılan pump'lara kesinlikle girmeyin. 
+### Binance Listing Botu
+* Binance'a yeni eklenen altcoinlerden, düzenlenen yarısmalardan (giveaways) ve buna benzer duyurulardan çok iyi kârlar elde edebilirsiniz. Binance listing botunu açık bırakın haberler eklenir eklenmez sizin için alsın. Take-profit ve buna benzer ayarları önceden kaydedebilirsiniz. 
 
 # Kurulum  
 * [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe) indirin ve bilgisayarınıza yükleyin. 
