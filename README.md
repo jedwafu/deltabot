@@ -1,7 +1,13 @@
-# DeltaBot - Binance Pump and Dump Bot
+# DeltaBot - Combination of Useful Bots for Binance Users
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
 Place the buy orders under 1 second even to 0.2 second (with fast connections). 
+
+# What's Inside The Packet
+### Pump Bot
+* Create fastest orders during the pumps on Binance.
+### Listings Bot
+* Get the coin and make good profits on new listings, giveaways or other news on Binance. 
 
 # Installation  
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
@@ -30,5 +36,4 @@ So it uses cython, core modules, powerfull caching system and much more optimiza
 * Set up all the settings with a single file. 
   
   
-
 
