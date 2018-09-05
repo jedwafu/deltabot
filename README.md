@@ -17,10 +17,7 @@ pip install pynput requests ccxt==1.16.59 cryptography ws4py
 ```
 * Download the bot from [Github](https://github.com/lukacci/deltabot/archive/master.zip). 
 * Add your apikey and apisecret to config.json file. 
-* Run the command below to start the program. 
-```
-binance_pump_bot.py 
-```
+* Open the .bat file of which bot you want to start. 
 
 # Features
 ### 🚀Optimized for speed 
