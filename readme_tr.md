@@ -19,10 +19,8 @@ pip install pynput requests ccxt==1.16.59 cryptography ws4py
 ```
 * [Github'dan dosyaları indirin](https://github.com/lukacci/binance-pump-bot/archive/master.zip) ve klasörden çıkartın. 
 * Apikey ve apisecret bilgilerinizi config.json dosyasına kaydedin. 
-* Kurulum tamamlandı, artık programı çalıştırmak için aşağıdaki komutu girebilirsiniz. 
-```
-binance_pump_bot.py 
-```
+* Çalıstırmak istediğiniz botu .bat dosyasına çift tıklayıp açabilirsiniz.  
+
 
 # Özellikler
 ### 🚀En hızlısı olması için tasarlandı 
