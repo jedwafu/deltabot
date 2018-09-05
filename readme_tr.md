@@ -1,4 +1,4 @@
-# Binance kullanıcıları için faydalı botlar
+# DeltaBot - Binance kullanıcıları için süper hızlı bot paketi 
 
 ![](https://image.ibb.co/kpCga9/make_money.jpg)
 
