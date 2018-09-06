@@ -12,7 +12,7 @@
         "stop_loss": "-%5",
         "order_type": "market",
         "limit_order_dont_buy_after_increase": "%20",
-        "trade_with_real_account": "True"
+        "trade_with_real_account": "False"
     },
     "buy_with_binance": {
         "api_key": "api_key",

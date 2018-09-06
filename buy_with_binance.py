@@ -25,7 +25,7 @@ s = sifre_coz(s_sifreli)
 
 exchange = ccxt.binance({
 	'apiKey': k,
-	'api_secret': s,
+	'secret': s,
 	'enableRateLimit': True,
 	'options': { 'adjustForTimeDifference': True }	
 })

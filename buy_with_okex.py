@@ -26,7 +26,7 @@ k = sifre_coz(k_sifreli)
 s = sifre_coz(s_sifreli)
 exchange = ccxt.okex({
 	'apiKey': k,
-	'api_secret': s,
+	'secret': s,
 	'enableRateLimit': True,
 	'options': {'adjustForTimeDifference': True}	
 })
