@@ -1,6 +1,4 @@
 
-cd /d Z:\cc
-
 ::delete the log directory
 rmdir log /s /q
 mkdir log
