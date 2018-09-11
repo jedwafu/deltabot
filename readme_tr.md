@@ -16,7 +16,7 @@
 * [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe) indirin ve bilgisayarınıza yükleyin. 
 * Daha sonra aşağıdaki komutu girin. 
 ```
-pip install pynput requests ccxt==1.16.59 cryptography ws4py
+pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
 ```
 * [Github'dan dosyaları indirin](https://github.com/lukacci/binance-pump-bot/archive/master.zip) ve klasörden çıkartın. 
 * Apikey ve apisecret bilgilerinizi config.json dosyasına kaydedin. 
