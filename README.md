@@ -14,7 +14,7 @@ Place the buy orders under 1 second even to 0.2 second (with fast connections).
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
 * Run the command below to install the requirements
 ```
-pip install pynput requests ccxt==1.16.59 cryptography ws4py
+pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
 ```
 * Download the bot from [Github](https://github.com/lukacci/deltabot/archive/master.zip). 
 * Add your apikey and apisecret to config.json file. 
