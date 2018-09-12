@@ -6,7 +6,7 @@
 (Çok iyi internet bağlantıları ile 0.2 saniyeye kadar hızlandırılabilir.)
 
 # Pakette Neler Var?
-### Binance Pump Botu
+### Binance Pump Botu (P&D)
 * Bu botu kullanmadan Binance üzerinde yapılan pump'lara kesinlikle girmeyin. 
 ### Binance Listing Botu
 * Binance'a yeni eklenen altcoinlerden, düzenlenen yarısmalardan (giveaways) ve buna benzer duyurulardan çok iyi kârlar elde edebilirsiniz. Binance listing botunu açık bırakın haberler eklenir eklenmez sizin için alsın. Take-profit ve buna benzer ayarları önceden kaydedebilirsiniz. 
