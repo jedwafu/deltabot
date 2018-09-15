@@ -7,8 +7,10 @@
 
 # Pakette Neler Var?
 ### Binance Pump Botu (P&D)
+![](https://image.ibb.co/hwBaRe/ornek.png)
 * Bu botu kullanmadan Binance üzerinde yapılan pump'lara kesinlikle girmeyin. 
 ### Binance Listing Botu
+![](https://image.ibb.co/bFtKKz/binance_new_listings.jpg)
 * Binance'a yeni eklenen altcoinlerden, düzenlenen yarısmalardan (giveaways) ve buna benzer duyurulardan çok iyi kârlar elde edebilirsiniz. Binance listing botunu açık bırakın haberler eklenir eklenmez sizin için alsın. Take-profit ve buna benzer ayarları önceden kaydedebilirsiniz. 
 
 # Kurulum  
