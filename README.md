@@ -8,6 +8,8 @@ Place the buy orders under 1 second even to 0.2 second (with fast connections).
 ![](https://image.ibb.co/hwBaRe/ornek.png)
 * Create fastest orders during the pumps on Binance.
 ### Listings Bot
+![](https://image.ibb.co/bFtKKz/binance_new_listings.jpg)
+
 * Get the coin and make good profits on new listings, giveaways or other news on Binance. 
 * Your order will be placed before announced on https://t.me/binance_announcements. 
 
